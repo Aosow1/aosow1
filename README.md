@@ -29,12 +29,19 @@
 
 ---
 
-## 🚀 Projets
+## 🚀 Projets Professionnels
+
+| Projet | Description | Résultat |
+|--------|-------------|----------|
+| 📡 **Swap OCS & PCRF Orange Guinée** | Migration du système de facturation mobile | ✅ 100% réussi, élu meilleur projet |
+
+---
+
+## 💻 Projets Personnels
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| 🛡️ **Détecteur de Spam IA** | Modèle de détection de spams avec 90% de précision — Projet de fin d'études | [Demo Live](https://huggingface.co/spaces/Aezin/spam-detection) |
-| 📡 **Swap OCS & PCRF OGN** | Migration réussie à 100% sans interruption de services — élu meilleur projet | Huawei Guinée |
+| 🛡️ **Détecteur de Spam IA** | Modèle ML de détection de spams — 90% de précision | [Demo Live 🔗](https://huggingface.co/spaces/Aezin/spam-detection) |
 
 ---
 
