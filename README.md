@@ -24,7 +24,7 @@
 
 - 🏢 **Assistant Ingénieur OCS/CBS** chez Huawei Technologies Guinée
 - 🎓 **Licence 4 ans en Génie Informatique & Télécommunications** - Université Nongo Conakry
-- 🏆 **Lauréat 30/300 Participants Huawei Seeds for the Future 2023** 
+- 🏆 **Lauréat parmi 30/300 Participants Huawei Seeds for the Future 2023** 
 - 🥇 **Prix GiveMe5 Huawei** - récompensé pour contribution au projet OCS d'OGN
 
 ---
