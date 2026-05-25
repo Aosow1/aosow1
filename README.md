@@ -72,7 +72,7 @@
 - 🏅 Huawei - Mobile Money
 - 🏅 Cisco - Ethical Hacker
 - 🏅 Cisco - Network Security
-- 🏅 Cisco CCNA
+- 🏅 Cisco - CCNA (Introductions aux réseaux, commutation, routage et fondamentaux du sans-fils, Réseaux d'entreprise, sécurité et automatisation)
 
 ---
 
