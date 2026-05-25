@@ -49,6 +49,7 @@
 
 **Réseaux & Télécoms**
 
+![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=flat-square&logo=huawei&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
