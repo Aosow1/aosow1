@@ -1,7 +1,7 @@
 <h1 align="center">Salut ! Je suis Alpha Ousmane Sow 👋</h1>
 
 <p align="center">
-  🇬🇳 Conakry, Guinée &nbsp;|&nbsp; 
+   Conakry, Guinée &nbsp;|&nbsp; 
   Assistant Ingénieur Systèmes de Facturation chez <strong>Huawei Guinée</strong> &nbsp;|&nbsp;
   Passionné d'IA et de Cybersécurité
 </p>
@@ -23,7 +23,7 @@
 ## 🧠 À propos de moi
 
 - 🏢 **Assistant Ingénieur OCS/CBS** chez Huawei Technologies Guinée
-- 🎓 **Licence en Génie Informatique & Télécommunications** - Université Nongo Conakry
+- 🎓 **Licence 4 ans en Génie Informatique & Télécommunications** - Université Nongo Conakry
 - 🏆 **Lauréat 30/300 Participants Huawei Seeds for the Future 2023** 
 - 🥇 **Prix GiveMe5 Huawei** - récompensé pour contribution au projet OCS d'OGN
 
@@ -69,7 +69,7 @@
 
 ## 🌍 Langues
 
-🇫🇷 Français (natif) &nbsp;|&nbsp; 🇬🇧 Anglais C1 (EF SET) &nbsp;|&nbsp; Poular (natif)
+ Français (natif) &nbsp;|&nbsp;  Anglais C1 (EF SET) &nbsp;|&nbsp; Poular (natif)
 
 ---
 
