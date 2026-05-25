@@ -69,8 +69,9 @@
 - 🏅 Huawei - Installation Système de Facturation Mobile CBS
 - 🏅 Huawei - Maintenance de service et exploitation réseau
 - 🏅 Huawei - Cybersécurité pour les services
-- 🏅 Huawei - Déploiement Fintech Mobile Money
+- 🏅 Huawei - Mobile Money
 - 🏅 Cisco - Ethical Hacker
+- 🏅 Cisco - Network Security
 - 🏅 Cisco CCNA
 
 ---
