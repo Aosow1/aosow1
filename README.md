@@ -2,7 +2,7 @@
 
 <p align="center">
    Conakry, Guinée &nbsp;|&nbsp; 
-  Assistant Ingénieur Systèmes de Facturation chez <strong>Huawei Guinée</strong> &nbsp;|&nbsp;
+  Assistant Ingénieur Systèmes de Facturation mobile chez <strong>Huawei Guinée</strong> &nbsp;|&nbsp;
   Passionné d'IA et de Cybersécurité
 </p>
 
